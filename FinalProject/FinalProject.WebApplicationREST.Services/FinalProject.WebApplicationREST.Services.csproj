@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FinalProject.Domain\FinalProject.Domain.csproj" />
+    <ProjectReference Include="..\FinalProject.Interfaces.IDataRetrieval\FinalProject.Interfaces.IDataRetrieval.csproj" />
+    <ProjectReference Include="..\FinalProject.Services.DataRetrieval\FinalProject.Services.DataRetrieval.csproj" />
+    <ProjectReference Include="..\FinalProject.WebApplicationREST.Domain\FinalProject.WebApplicationREST.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

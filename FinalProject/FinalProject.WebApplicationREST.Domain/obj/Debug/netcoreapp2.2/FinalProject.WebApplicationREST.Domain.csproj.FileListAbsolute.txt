@@ -1,0 +1,16 @@
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\bin\Debug\netcoreapp2.2\FinalProject.WebApplicationREST.Domain.deps.json
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\bin\Debug\netcoreapp2.2\FinalProject.WebApplicationREST.Domain.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\bin\Debug\netcoreapp2.2\FinalProject.WebApplicationREST.Domain.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\bin\Debug\netcoreapp2.2\FinalProject.Domain.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\bin\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\bin\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\bin\Debug\netcoreapp2.2\FinalProject.Domain.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\bin\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\bin\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\obj\Debug\netcoreapp2.2\FinalProject.WebApplicationREST.Domain.csprojAssemblyReference.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\obj\Debug\netcoreapp2.2\FinalProject.WebApplicationREST.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\obj\Debug\netcoreapp2.2\FinalProject.WebApplicationREST.Domain.AssemblyInfoInputs.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\obj\Debug\netcoreapp2.2\FinalProject.WebApplicationREST.Domain.AssemblyInfo.cs
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\obj\Debug\netcoreapp2.2\FinalProject.WebApplicationREST.Domain.csproj.CopyComplete
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\obj\Debug\netcoreapp2.2\FinalProject.WebApplicationREST.Domain.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.WebApplicationREST.Domain\obj\Debug\netcoreapp2.2\FinalProject.WebApplicationREST.Domain.pdb

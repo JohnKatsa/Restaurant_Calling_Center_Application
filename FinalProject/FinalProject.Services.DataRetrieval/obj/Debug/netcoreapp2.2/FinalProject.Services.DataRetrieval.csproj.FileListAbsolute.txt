@@ -1,0 +1,14 @@
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\bin\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.deps.json
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\bin\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\bin\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\bin\Debug\netcoreapp2.2\FinalProject.Domain.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\bin\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\bin\Debug\netcoreapp2.2\FinalProject.Domain.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\bin\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.csprojAssemblyReference.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.csproj.CoreCompileInputs.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.AssemblyInfoInputs.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.AssemblyInfo.cs
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.csproj.CopyComplete
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Services.DataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Services.DataRetrieval.pdb

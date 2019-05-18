@@ -1,0 +1,20 @@
+﻿@model FinalProjectMVC.Domain.Order
+
+<div class="container">
+    <div>
+        OrderNo: @Model.Id
+    </div>
+
+    <div>
+        @foreach (var item in Model.Products)
+        {
+            <div>
+                @item.Name x @item.Quantity , @(item.Cost*item.Quantity)
+            </div>
+        }
+    </div>
+
+    <div>
+        Total Cost: @Model.Cost
+    </div>
+</div>

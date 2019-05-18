@@ -1,0 +1,33 @@
+﻿@model FinalProjectMVC.Domain.Order
+
+@if(Model != null)
+{
+    <p class="container">Order id: @Model.Id</p>
+
+    <p class="container">Order purchase date: @Model.PurchaseDate</p>
+
+    <div class="container">
+        <p class="container">Items bought:</p>
+        @foreach (var item in Model.Products)
+        {
+            <p>@item.Name x @item.Quantity</p>
+        }
+    </div>
+
+    <p class="container">cost: @Model.Cost</p>
+
+    <form action="@Url.Action("Index", "Home")">
+        <div class="container">
+            <input class="container btn btn-success" type="submit" value="OK" />
+        </div>
+    </form>
+}
+else
+{
+    <h1 class="container">
+        Something went wrong
+        <br/>
+        Maybe no products were selected? 
+    </h1>
+    <a class="container" asp-action="Index">back</a>
+}

@@ -1,0 +1,9 @@
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Interfaces.IDataRetrieval\bin\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.deps.json
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Interfaces.IDataRetrieval\bin\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Interfaces.IDataRetrieval\bin\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Interfaces.IDataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.csprojAssemblyReference.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Interfaces.IDataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.csproj.CoreCompileInputs.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Interfaces.IDataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.AssemblyInfoInputs.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Interfaces.IDataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.AssemblyInfo.cs
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Interfaces.IDataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProject\FinalProject.Interfaces.IDataRetrieval\obj\Debug\netcoreapp2.2\FinalProject.Interfaces.IDataRetrieval.pdb

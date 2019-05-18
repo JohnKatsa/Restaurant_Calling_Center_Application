@@ -1,0 +1,11 @@
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\bin\Debug\netcoreapp2.2\FinalProjectMVC.Domain.deps.json
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\bin\Debug\netcoreapp2.2\FinalProjectMVC.Domain.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\obj\Debug\netcoreapp2.2\FinalProjectMVC.Domain.csprojAssemblyReference.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\obj\Debug\netcoreapp2.2\FinalProjectMVC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\obj\Debug\netcoreapp2.2\FinalProjectMVC.Domain.AssemblyInfoInputs.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\obj\Debug\netcoreapp2.2\FinalProjectMVC.Domain.AssemblyInfo.cs
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\bin\Debug\netcoreapp2.2\FinalProjectMVC.Domain.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\obj\Debug\netcoreapp2.2\FinalProjectMVC.Domain.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\obj\Debug\netcoreapp2.2\FinalProjectMVC.Domain.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\bin\Debug\netcoreapp2.2\FinalProjectMVC.Domain.runtimeconfig.json
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Domain\bin\Debug\netcoreapp2.2\FinalProjectMVC.Domain.runtimeconfig.dev.json

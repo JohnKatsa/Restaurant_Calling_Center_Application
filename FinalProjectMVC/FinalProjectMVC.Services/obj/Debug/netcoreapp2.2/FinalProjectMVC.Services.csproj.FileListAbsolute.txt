@@ -1,0 +1,12 @@
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\bin\Debug\netcoreapp2.2\FinalProjectMVC.Services.deps.json
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\bin\Debug\netcoreapp2.2\FinalProjectMVC.Services.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\obj\Debug\netcoreapp2.2\FinalProjectMVC.Services.csprojAssemblyReference.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\obj\Debug\netcoreapp2.2\FinalProjectMVC.Services.csproj.CoreCompileInputs.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\obj\Debug\netcoreapp2.2\FinalProjectMVC.Services.AssemblyInfoInputs.cache
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\obj\Debug\netcoreapp2.2\FinalProjectMVC.Services.AssemblyInfo.cs
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\bin\Debug\netcoreapp2.2\FinalProjectMVC.Services.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\bin\Debug\netcoreapp2.2\FinalProjectMVC.Domain.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\bin\Debug\netcoreapp2.2\FinalProjectMVC.Domain.pdb
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\obj\Debug\netcoreapp2.2\FinalProjectMVC.Services.csproj.CopyComplete
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\obj\Debug\netcoreapp2.2\FinalProjectMVC.Services.dll
+C:\Users\Katsanis\Desktop\agileactors\agileactors\FinalProject\FinalProjectMVC\FinalProjectMVC.Services\obj\Debug\netcoreapp2.2\FinalProjectMVC.Services.pdb

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FinalProject.Domain\FinalProject.Domain.csproj" />
+    <ProjectReference Include="..\FinalProject.Interfaces.IDataRetrieval\FinalProject.Interfaces.IDataRetrieval.csproj" />
+    <ProjectReference Include="..\FinalProject.Services.DataRetrieval\FinalProject.Services.DataRetrieval.csproj" />
+    <ProjectReference Include="..\FinalProject.WebApplicationREST.Services\FinalProject.WebApplicationREST.Services.csproj" />
+  </ItemGroup>
+
+</Project>

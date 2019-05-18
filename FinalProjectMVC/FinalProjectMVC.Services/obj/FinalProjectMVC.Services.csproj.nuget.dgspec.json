@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Services\\FinalProjectMVC.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Domain\\FinalProjectMVC.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Domain\\FinalProjectMVC.Domain.csproj",
+        "projectName": "FinalProjectMVC.Domain",
+        "projectPath": "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Domain\\FinalProjectMVC.Domain.csproj",
+        "packagesPath": "C:\\Users\\Katsanis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Katsanis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Services\\FinalProjectMVC.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Services\\FinalProjectMVC.Services.csproj",
+        "projectName": "FinalProjectMVC.Services",
+        "projectPath": "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Services\\FinalProjectMVC.Services.csproj",
+        "packagesPath": "C:\\Users\\Katsanis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Katsanis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Domain\\FinalProjectMVC.Domain.csproj": {
+                "projectPath": "C:\\Users\\Katsanis\\Desktop\\agileactors\\agileactors\\FinalProject\\FinalProjectMVC\\FinalProjectMVC.Domain\\FinalProjectMVC.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

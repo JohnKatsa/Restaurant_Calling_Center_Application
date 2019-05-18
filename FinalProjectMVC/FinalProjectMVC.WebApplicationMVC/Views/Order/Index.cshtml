@@ -1,0 +1,64 @@
+﻿@model ProductsViewModel
+
+<style>
+    table {
+        table-layout: fixed;
+    }
+</style>
+
+<form action="@Url.Action("Register","Order", new { id = Model.Id })" method="post">
+
+    <div class="container">
+        @if (Model.Products.Count() != 0 && Model.Categories.Count() != 0)
+        {
+            @foreach (var category in Model.Categories)
+            {
+                <h2>@category.Name - @category.Description</h2>
+                <br />
+
+                <table class="container" style="width:90%">
+                    @foreach (var item in Model.Products)
+                    {
+                        if (item.Category != null && item.Category.Id == category.Id)
+                        {
+                            <tr>
+                                <td>@item.Name</td>
+                                <td>@item.Cost</td>
+                                <td><input type="checkbox" id="'c' + @item.Id" name="buy" value="@item.Id" onclick="showHowMany(this.id)"></td>
+                                <td><input type="number" id="'b' + @item.Id" name="buyAmount" min="1" style="display:none;resize:none;width:50px"></td>
+                            </tr>
+                        }
+                    }
+                </table>
+                <br />
+            }
+
+            <br />
+
+            <div class="container">
+                <input class="container btn btn-success" type="submit" value="Submit Order" />
+            </div>
+        }
+        else
+        {
+            <div>There are no products available yet!</div>
+            <div>Check for new ones later!</div>
+        }
+    </div>
+
+</form>
+
+<script>
+    function showHowMany(id) {
+        var checkBox = document.getElementById(id);
+        var text = document.getElementById(id.replace("c", "b"));
+        if (checkBox.checked == true) {
+            text.style.display = "block";
+            text.value = "1";
+        }
+        else {
+            text.style.display = "none";
+            text.value = "0";
+        }
+    }
+</script>
